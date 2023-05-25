@@ -1,7 +1,10 @@
 ### Instructions:
 - Input file must be a .wav file.
 - Name input file: "old_sample.wav"
+- To run in command line: 'python3 transposer.py'
+- Type in desired key to transpose to.
 - New file will be named: "new_sample.wav"
 
-[Initial reference](https://stackoverflow.com/questions/43963982/python-change-pitch-of-wav-file) <br />
-Must make User Interface and personalize to my needs (TODOs in transposer.py)
+### Libraries Used:
+- MIT's music21 library
+- Wave library
